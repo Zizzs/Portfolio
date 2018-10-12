@@ -153,3 +153,17 @@ hr {
 #listfont li {
   font-size: 13px;
 }
+
+#sozopolpots {
+  -webkit-transform:rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+  float:left;
+  width: 40%;
+  margin-right: 5px;
+  margin-top: 30px;
+  margin-bottom: 5px;
+  padding-bottom: 5px;
+}
