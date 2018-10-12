@@ -141,3 +141,15 @@ hr {
   width: 300px;
   text-align: center;
 }
+
+#aboutmetext1 {
+  font-size: 12px;
+}
+
+#texastechimg {
+  margin-top: 130px;
+}
+
+#listfont li {
+  font-size: 13px;
+}
