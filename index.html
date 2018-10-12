@@ -15,10 +15,13 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item active">
-          <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+          <a class="nav-link" href="index.html">Home <span class="sr-only"></span></a>
         </li>
-        <li class="nav-item active">
-          <a class="nav-link" href="#">Projects<span class="sr-only">(current)</span></a>
+        <li class="nav-item">
+            <a class="nav-link" href="aboutme.html">About Me <span class="sr-only"></span></a>
+          </li>
+        <li class="nav-item">
+          <a class="nav-link" href="projects.html">Projects<span class="sr-only"></span></a>
         </li>
       </ul>
     </div>
@@ -26,28 +29,39 @@
   <div class ="container">
     <div class ="row">
       <div class="col-md-6">
-        <div  id="panelleft" class="panel panel-default">
-          <div id="panelheading" class="panel-heading"><h2>Alex Williams</h2></div>
+        <div id="panelleft" class="panelstyle" class="panel panel-default">
+          <div id="panelheading" class="panel-heading"><h2 class="textcenter">Alex Williams</h2></div>
+          <p class="textcenter">Freelance Archaeologist and Aspiring Programmer</p>
           <div class="panel-body">
-            <p> [Insert Picture Here]</p>
+            <p><img id="rotateimg" src="img/me.jpg" alt="Picture of me, Alex Williams"></p>
           </div>
         </div>
       </div>
       <div class="col-md-6">
           <div class="panel panel-default">
-              <div id="panelright" class="panel-body">
+              <div class="panelstyle" id="panelright" class="panel-body">
                 <div>
-                  <h2>About Me</h2>
-                  <ul>
-                    <li>Blah</li>
-                    <li>Blah</li>
-                    <li>Blah</li>
-                    <li>Blah</li>
-                    <li>Blah</li>
+                  <h2 class="textcenter">Quick Links</h2>
+                  <ul id="quicklinks">
+                    <br>
+                    <h4>Major Projects:</h4>
+                    <li><a href="https://github.com/Zizzs/resort">Resort Website</a></li>
+                    <li><a href="https://github.com/Zizzs/adoption">Adoption Website</a></li>
+                    <hr>
+                    <h4>Current Project:</h4>
+                    <li>Portfolio Page</li>
+                    <hr>
                   </ul>
                 </div>
               </div>
             </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+          <div class="panelstyle" id="panelbottom" class="panel panel-default">
+            
+          </div>
       </div>
     </div>
   </div>

@@ -1,19 +1,78 @@
 #panelleft {
-  float: left;
+  margin-top: 25px;
+  margin-left: -75px;
   padding: 15px;
-  width: 500px;
-  background-color: rgb(219, 219, 219);
-  border: 2px solid black;
-  border-radius: 25px;
+  width: 600px;
+  height: 700px;
 }
 #panelright {
+  margin-top: 25px;
+  margin-left: -35px;
   padding: 15px;
-  width: 500px;
+  width: 600px;
+  height: 700px;
+}
+
+#panelbottom {
+  margin-top: 25px;
+  margin-left: -75px;
+  width: 1200px;
+  height: 400px;
+}
+
+#aboutmepanelleft {
+  margin-top: 25px;
+  margin-left: -75px;
+  padding: 15px;
+  width: 400px;
+  height: 500px;
+}
+
+#aboutmepanelmid {
+  margin-top: 25px;
+  margin-left: -45px;
+  padding: 15px;
+  width: 400px;
+  height: 500px;
+}
+
+#aboutmepanelright {
+  margin-top: 25px;
+  margin-left: -15px;
+  padding: 15px;
+  width: 400px;
+  height: 500px;
+}
+
+.panelstyle {
   background-color: rgb(219, 219, 219);
   border: 2px solid black;
   border-radius: 25px;
 }
-
-#panelheading {
+#quicklinks {
+  list-style: none;
 }
 
+hr { 
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+}
+
+#rotateimg {
+  -webkit-transform:rotate(270deg);
+  -moz-transform: rotate(270deg);
+  -ms-transform: rotate(270deg);
+  -o-transform: rotate(270deg);
+  transform: rotate(270deg);
+  width: 95%;
+  margin-top: 75px;
+}
+
+.textcenter {
+  text-align: center;
+}
