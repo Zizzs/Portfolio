@@ -44,6 +44,22 @@
   height: 500px;
 }
 
+#aboutmepanelbottomleft {
+  margin-top: 25px;
+  margin-left: -75px;
+  padding: 15px;
+  width: 600px;
+  height: 500px;
+}
+
+#aboutmepanelbottomright {
+  margin-top: 25px;
+  margin-left: -25px;
+  padding: 15px;
+  width: 600px;
+  height: 500px;
+}
+
 .panelstyle {
   background-color: rgb(219, 219, 219);
   border: 2px solid black;
@@ -73,6 +89,55 @@ hr {
   margin-top: 75px;
 }
 
+#rotateimg1 {
+  -webkit-transform:rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+  margin-top: 45px;
+  width: 65%;
+  margin-left: 25px;
+}
+
+#rotateimg2 {
+  width: 100%;
+  margin-top: 45px;
+}
+
+#rotateimg3 {
+  -webkit-transform:rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+  width: 60%;
+  margin-top: 75px;
+  margin-left: 60px;
+}
+
 .textcenter {
+  text-align: center;
+}
+
+
+#picture1text {
+  padding-top: 35px;
+  padding-left: 45px;
+  width: 250px;
+  text-align: center;
+}
+
+#picture2text {
+  padding-top: 35px;
+  padding-left: 60px;
+  width: 300px;
+  text-align: center;
+}
+
+#picture3text {
+  padding-top: 75px;
+  padding-left: 60px;
+  width: 300px;
   text-align: center;
 }
