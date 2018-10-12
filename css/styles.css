@@ -16,7 +16,7 @@
 #panelbottom {
   margin-top: 25px;
   margin-left: -75px;
-  width: 1200px;
+  width: 1210px;
   height: 400px;
 }
 
@@ -61,7 +61,7 @@
 }
 
 .panelstyle {
-  background-color: rgb(219, 219, 219);
+  background-color: white;
   border: 2px solid black;
   border-radius: 25px;
 }
@@ -166,4 +166,60 @@ hr {
   margin-top: 30px;
   margin-bottom: 5px;
   padding-bottom: 5px;
+}
+
+#projectpanel1 {
+  margin-top: 25px;
+  margin-left: -75px;
+  padding: 15px;
+  width: 400px;
+  height: 300px;
+}
+
+#projectpanel2 {
+  margin-top: 25px;
+  margin-left: -45px;
+  padding: 15px;
+  width: 400px;
+  height: 300px;
+}
+
+#projectpanel3 {
+  margin-top: 25px;
+  margin-left: -15px;
+  padding: 15px;
+  width: 400px;
+  height: 300px;
+}
+
+#projectpanel4 {
+  margin-top: 25px;
+  margin-left: -75px;
+  padding: 15px;
+  width: 400px;
+  height: 300px;
+}
+
+#projectpanel5 {
+  margin-top: 25px;
+  margin-left: -45px;
+  padding: 15px;
+  width: 400px;
+  height: 300px;
+}
+
+#projectpanel6 {
+  margin-top: 25px;
+  margin-left: -15px;
+  padding: 15px;
+  width: 400px;
+  height: 300px;
+}
+
+#projectpanel7 {
+  margin-top: 25px;
+  margin-left: 20px;
+  padding: 15px;
+  width: 1220px;
+  height: 300px;
 }
