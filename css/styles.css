@@ -93,6 +93,7 @@ hr {
   transform: rotate(270deg);
   width: 95%;
   margin-top: 75px;
+  border-radius: 8px;
 }
 
 #rotateimg1 {
@@ -104,11 +105,13 @@ hr {
   margin-top: 45px;
   width: 65%;
   margin-left: 25px;
+  border-radius: 8px;
 }
 
 #rotateimg2 {
   width: 100%;
   margin-top: 45px;
+  border-radius: 8px;
 }
 
 #rotateimg3 {
@@ -120,6 +123,7 @@ hr {
   width: 60%;
   margin-top: 75px;
   margin-left: 60px;
+  border-radius: 8px;
 }
 
 .textcenter {
@@ -232,4 +236,8 @@ hr {
 
 .bodycolor {
   background-color: #F8F9FD;
+}
+
+#sozopolpots {
+  border-radius: 8px;
 }
