@@ -12,7 +12,7 @@ _In addition to this, the portfolio also includes project history._
 
 ## Setup/Installation Requirements
 
-* _Either clone the repository and launch in Atom, Visual Studio Code or any other programming tool; or visit the gh-pages at https://zizzs.github.io/portfolio_
+* _Either clone the repository and launch in Atom, Visual Studio Code or any other programming tool; or visit the gh-pages at https://zizzs.github.io/Portfolio/index.html
 
 ## Support and contact details
 
@@ -27,4 +27,3 @@ _HTML, CSS, and some Bootstrap_
 *MIT License*
 
 Copyright (c) 2018 **_Alex Williams_**
-
