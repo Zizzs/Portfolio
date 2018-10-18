@@ -75,7 +75,7 @@
   list-style: none;
 }
 
-hr { 
+hr {
   display: block;
   margin-top: 0.5em;
   margin-bottom: 0.5em;
@@ -240,4 +240,8 @@ hr {
 
 #sozopolpots {
   border-radius: 8px;
+}
+
+#alexwilliams {
+  color:"white";
 }
